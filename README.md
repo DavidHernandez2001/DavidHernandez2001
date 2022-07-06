@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Un5r](https://github.com/cdmorau23/UN5r)
 
-- 💬 Ask me about **react, expressJS, TypeScript, python, java, javaScript, SQL**
+- 💬 Ask me about **react, expressJS, TypeScript, python, java, javaScript, SQL, HTML**
 
 - 📫 How to reach me **sordost2001@gmail.com**
 
