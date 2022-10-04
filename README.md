@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [SParking](https://github.com/IngSoft2-Gr6)
+- 🔭 I’m currently working on [AIMS](https://github.com/SGman98/aims_api_gateway/)
+- 👯 I’m looking to collaborate on  [SParking](https://github.com/IngSoft2-Gr6)
 
-- 👯 I’m looking to collaborate on [Un5r](https://github.com/cdmorau23/UN5r)
 
 - 💬 Ask me about **react, expressJS, TypeScript, python, java, javaScript, SQL, HTML**
 
