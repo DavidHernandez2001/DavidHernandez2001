@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Esteban Hernandez Gomez</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidhernandez2001&label=Profile%20views&color=0e75b6&style=flat" alt="davidhernandez2001" /> </p>
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on  [SParking](https://github.com/IngSoft2-Gr6)
 
 
-- 💬 Ask me about **react, expressJS, TypeScript, python, java, javaScript, SQL, HTML**
+- 💬 Ask me about **Golang, python, java, BigQuery, DataDog, NewRelic, Kibana, NoSQL, SQL, **
 
 - 📫 How to reach me **sordost2001@gmail.com**
 
